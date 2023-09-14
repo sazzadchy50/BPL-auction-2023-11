@@ -1,0 +1,211 @@
+ [
+        {
+            "cover_img": "https://i.ibb.co/Xt7fZNs/Highest-Paid-Players-In-The-Bangladesh-Premier-League-2022.jpg",
+           "logo": "https://i.ibb.co/6bsP559/1Ti3g6t.jpg"
+           
+           },
+      {
+        "id": 1,
+        "name": "Shakib Al Hasan",
+        "image": "https://i.ibb.co/qmjcZds/Shakib-Al-Hasan.webp",
+        "salary": " 500000",
+        "position": "All-rounder"
+      },
+      {
+        "id": 2,
+        "name": "Mushfiqur Rahim",
+        "image": "https://i.ibb.co/YNG05j5/mushfiqur-rahim.webp",
+        "salary": " 400000",
+        "position": "Wicket-keeper / Batsman"
+      },
+      {
+        "id": 3,
+        "name": "Tamim Iqbal",
+        "image": "https://i.ibb.co/jbKfWS0/Tamim-Iqbal.jpg",
+        "salary": " 450000",
+        "position": "Batsman"
+      },
+      {
+        "id": 4,
+        "name": "Mustafizur Rahman",
+        "image": "https://i.ibb.co/x1RXZ77/images-q-tbn-ANd9-Gc-Qi-Sl-BERE1naw-EBcwhu-Zn7z-Z10-S-j5-Dd4-Zh-Kg-Mu-HNfct-RRBFFm-Qr-J3-YA0xha-Ob-D.jpg",
+        "salary": " 350000",
+        "position": "Bowler"
+      },
+      {
+        "id": 5,
+        "name": "Mehidy Hasan Miraz",
+        "image": "https://i.ibb.co/64c5mx0/licensed-image-q-tbn-ANd9-Gc-RYJCZb-KNl-CPPMty-QB8q17-J1rhhd-BLVM-VQc-G3-A2-J6d99-GCzzz-Wji-XMF8dtih.jpg",
+        "salary": " 300000",
+        "position": "All-rounder"
+      },
+      {
+        "id": 6,
+        "name": "Liton Das",
+        "image": "https://i.ibb.co/2cVSbCj/1596.png",
+        "salary": " 320000",
+        "position": "Wicket-keeper / Batsman"
+      },
+      {
+        "id": 7,
+        "name": "Taskin Ahmed",
+        "image": "https://i.ibb.co/zPyhTh2/images-q-tbn-ANd9-Gc-T1-Wyt-Conn-F8x-LJwg-N7-YHr9n-MUw-Jwm-Ox-WU78u-Yya-Rpp-Wrmi-Pbk-Hz-Yt4-WD7e-YJs.jpg",
+        "salary": " 280000",
+        "position": "Bowler"
+      },
+      {
+        "id": 8,
+        "name": "Mosaddek Hossain",
+        "image": "https://i.ibb.co/R9xj6RT/319733.png",
+        "salary": " 270000",
+        "position": "All-rounder"
+      },
+      {
+        "id": 9,
+        "name": "Mominul Haque",
+        "image": "https://i.ibb.co/Bfpg47y/mominul-haque.jpg",
+        "salary": " 330000",
+        "position": "Batsman"
+      },
+      {
+        "id": 10,
+        "name": "Soumya Sarkar",
+        "image": "https://i.ibb.co/LrqgqR1/licensed-image-q-tbn-ANd9-Gc-S0-Jaf-OTbq-GX8-GRouc7-DXp-Df-Vidpq-A1-Vx-Ul-Jd-nzb-Tj4f-HDCIx-NL3-LV-m.jpg",
+        "salary": " 310000",
+        "position": "All-rounder"
+      },
+      {
+        "id": 11,
+        "name": "Rubel Hossain",
+        "image": "https://i.ibb.co/M5L1B3w/licensed-image-q-tbn-ANd9-Gc-RM4vqb-S9b-WHndh-EYpk-IFR0-KMl7x-UGm-V4p-P347-Jqb-YFg-Gv-s-Ip07-VD1-GRA.jpg",
+        "salary": " 290000",
+        "position": "Bowler"
+      },
+      {
+        "id": 12,
+        "name": "Najmul Hossain Shanto",
+        "image": "https://i.ibb.co/JBW2kKD/images-q-tbn-ANd9-Gc-S9-Q3-KC9ko-YUSWx-Z1-M7-Zw-UU2-NKJ9-JV75m-Cq-ROsx-Zmy-RZ10-Kr-Lueh-CZ-7-AIPtm-A.jpg",
+        "salary": " 320000",
+        "position": "Batsman"
+      },
+      {
+        "id": 13,
+        "name": "Afif Hossain",
+        "image": "https://i.ibb.co/NjSsWjs/1200px-Afif-Hossain.jpg",
+        "salary": " 280000",
+        "position": "All-rounder"
+      },
+      {
+        "id": 14,
+        "name": "Taijul Islam",
+        "image": "https://i.ibb.co/Z2DW0Fv/licensed-image-q-tbn-ANd9-Gc-SV5-SV2-IMj-DGUb5wtf6-b-6get6q-Yd-COQ8n-A99-PELe-Kzv-y8-QTvc7llb-Ap-ZDW.jpg",
+        "salary": " 270000",
+        "position": "Bowler"
+      },
+      {
+        "id": 15,
+        "name": "Nasum Ahmed",
+        "image": "https://i.ibb.co/hXFG2HK/images-q-tbn-ANd9-Gc-RTin-Cf-SFPEd-E9-JG0-By9-CN54d-TZr-HFYLo-Wz8bq-Y6cttf-MC3-DN92wi-D2-W-e-O8jf-ZQ.jpg",
+        "salary": " 310000",
+        "position": "Bowler"
+      },
+      {
+        "id": 16,
+        "name": "Mahmudullah Riyad",
+        "image": "https://i.ibb.co/1L0HYMx/images-q-tbn-ANd9-Gc-S05t-Ud4mr4-Zp-Tu-ZESh-Vx-VOf-X6g-ZSWODvj-IA-usqp-CAU.jpg",
+        "salary": " 350000",
+        "position": "All-rounder"
+      },
+      {
+        "id": 17,
+        "name": "Naim Sheikh",
+        "image": "https://i.ibb.co/k8ZjSf9/80104faf-b069-4797-9e3c-3f1bdc897011.png",
+        "salary": " 300000",
+        "position": "Batsman"
+      },
+      {
+        "id": 18,
+        "name": "Aminul Islam Biplob",
+        "image": "https://i.ibb.co/8s3mgCp/licensed-image-q-tbn-ANd9-Gc-RJTLKy2o-Jed-XY8-Jo-C19j-Uajhwr44-KI6xf-Tpd-X9-XOFjo-Ozzn-PNCOh-Idq7-c.jpg",
+        "salary": " 280000",
+        "position": "Bowler"
+      },
+      {
+        "id": 19,
+        "name": "Shoriful Islam",
+        "image": "https://i.ibb.co/DK698FX/13583.png",
+        "salary": " 270000",
+        "position": "Bowler"
+      },
+      {
+        "id": 20,
+        "name": "Sanjamul Islam",
+        "image": "https://i.ibb.co/SfJFZQY/43319.png",
+        "salary": " 260000",
+        "position": "Bowler"
+      },
+      {
+        "id": 21,
+        "name": "Abu Jayed",
+        "image": "https://i.ibb.co/4sxgjjx/323157.png",
+        "salary": " 290000",
+        "position": "Bowler"
+      },
+      {
+        "id": 22,
+        "name": "Mohammad Naim",
+        "image": "https://i.ibb.co/sQC1kP2/e2f22291-2312-4c41-961a-a71201d23723.png",
+        "salary": " 310000",
+        "position": "Batsman"
+      },
+      {
+        "id": 23,
+        "name": "Mahedi Hasan",
+        "image": "https://i.ibb.co/f4BRF1Q/mahedi-hasan-17-03-2022.jpg",
+        "salary": " 270000",
+        "position": "All-rounder"
+      },
+      {
+        "id": 24,
+        "name": "Khaled Ahmed",
+        "image": "https://i.ibb.co/KGHzjbF/observerbd-com-1570559766.jpg",
+        "salary": " 260000",
+        "position": "Bowler"
+      },
+      {
+        "id": 25,
+        "name": "Mohammad Saifuddin",
+        "image": "https://i.ibb.co/dD421JG/322800.png",
+        "salary": " 320000",
+        "position": "All-rounder"
+      },
+      {
+        "id": 26,
+        "name": "Nazmul Islam",
+        "image": "https://i.ibb.co/0fvCgHS/1592669878-4.jpg",
+        "salary": " 280000",
+        "position": "Bowler"
+      },
+      {
+        "id": 27,
+        "name": "Mohammad Mithun",
+        "image": "https://i.ibb.co/LrRf9Km/319730.png",
+        "salary": " 300000",
+        "position": "Wicket-keeper / Batsman"
+      },
+      {
+        "id": 28,
+        "name": "Anamul Haque",
+        "image": "https://i.ibb.co/FnTZWY5/316669.png",
+        "salary": " 260000",
+        "position": "Wicket-keeper / Batsman"
+      },
+      {
+        "id": 29,
+        "name": "Ariful Haque",
+        "image": "https://i.ibb.co/m6vr7gV/Dqb-JJne-V4-AEE-VU-format-jpg-name-4096x4096.jpg",
+        "salary": " 270000",
+        "position": "All-rounder"
+      }
+    ]
+  
